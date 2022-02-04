@@ -48,7 +48,7 @@ export default function Header({
             </span>{" "}
             <chakra.strong display={{ base: "none", md: "inline-block" }}>SpeedRunWeb3.com</chakra.strong>
             <chakra.strong display={{ base: "inline-block", md: "none" }}>
-              {isSignerProviderConnected ? "SRE" : "SpeedRunWeb3.com"}
+              {isSignerProviderConnected ? "SRW3" : "SpeedRunWeb3.com"}
             </chakra.strong>
           </NavLink>
         </Flex>
