@@ -1,4 +1,4 @@
-# 🏃‍♀️ Speed Run Web3 [![Netlify Status](https://api.netlify.com/api/v1/badges/f925ecf3-0b4b-4545-8412-7b860c76b7f1/deploy-status)](https://app.netlify.com/sites/wonderful-kirch-4ab41a/deploys)
+# 🏃‍♀️ Speed Run Web3 [![Netlify Status](https://api.netlify.com/api/v1/badges/ad4d0a2d-dae7-4122-b6f3-6f44aa86b170/deploy-status)](https://app.netlify.com/sites/confident-beaver-eea928/deploys)
 
 
 Speed Run Web3 aims to provide a structured learning path for onboarding developers to Ethereum.
