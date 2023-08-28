@@ -60,7 +60,7 @@ export default function HomeView({ connectedBuilder, userProvider }) {
             }}
             textAlign="center"
           >
-            Learn how to build on <strong>Ethereum</strong>; the superpowers and the gotchas.
+            Learn how to build <strong>NPCs</strong> built on ERC-6551 and AI
           </Text>
 
           <Center
