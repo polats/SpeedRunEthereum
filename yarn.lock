@@ -12621,7 +12621,7 @@ ipfs-http-client@^34.0.0:
     bs58 "^4.0.1"
     buffer "^5.4.2"
     cids "~0.7.1"
-    concat-stream "github:hugomrdias/concat-stream#feat/smaller"
+    concat-stream "^1.6.2"
     debug "^4.1.0"
     detect-node "^2.0.4"
     end-of-stream "^1.4.1"
